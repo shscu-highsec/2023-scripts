@@ -11,6 +11,7 @@
 # EXAMPLE
 # sudo ./setallpasswd.sh
 # 
+#
 
 while IFS=':' read -r username password uid gid gecos home shell; do
 	# Skip nobody

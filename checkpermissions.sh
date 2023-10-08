@@ -39,3 +39,4 @@ sudo chown root:root /boot/grub/grub.cfg
 sudo chmod 600 /boot/grub/grub.cfg
 
 echo "Check permissions has completed."
+

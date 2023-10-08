@@ -31,7 +31,6 @@
 # EXAMPLE
 # sudo ./checkuser.sh min,manny,noonoo fin,yan,poppy
 # 
-# 
 
 # Get all known users
 if [[ $# == 0 ]]; then
